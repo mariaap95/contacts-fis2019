@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/mariaap95/contacts-fis2019.git"
   },
-  "nomepage": "https://github.com/mariaap95/contacts-fis2019.git",
+  "nomepage": "https://github.com/mariaap95/contacts-fis2019",
   "scripts": {
     "start": "node index2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
